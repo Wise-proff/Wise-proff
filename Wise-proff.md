@@ -12,6 +12,7 @@ Skills
 - Machine learning
 - Python programming
 - Jupyter Notebook
+- Website designing using HTML and CSS
 - Data manipulation and cleaning
 
 Education
@@ -23,5 +24,5 @@ Education
 Contact
 
 Feel free to reach out to me at:
-Okeke1339@gmail.com
-+2347034938331
+engr.okeke001@gmail.com Okeke1339@gmail.com
++234-703-493-8331
